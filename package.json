@@ -1,0 +1,15 @@
+{
+  "name": "fp-tube",
+  "version": "0.0.1",
+  "description": "FPTube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test --recursive"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^2.1.0"
+  }
+}
